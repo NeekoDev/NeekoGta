@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeekoGta, 29 years old.
+- 👋 Hi, I’m Neeko, 29 years old.
 
 ### Milestones of Grand Theft Auto
 <h3>2009</h3>
@@ -25,7 +25,7 @@
   - Member of « SFPD »
 </details>
 
-TODO
+*TODO*
 
 <!---
 NeekoGta/NeekoGta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
