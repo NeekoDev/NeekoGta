@@ -4,6 +4,31 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+### Milestones
+<h3>2009</h3>
+
+<details>
+  <summary>Expand</summary>
+
+- Discovery of SA-MP
+- Playing on « The Godfather » and LS-RP
+- Playing on « Le mode libre » from « Liberty Tree »
+</details>
+
+<h3>2010</h3>
+
+<details>
+  <summary>Expand</summary>
+
+- Starting to learn how to script in Pawn and map with MTA
+- Playing on « One Generation » as *John_Broadus*, *Phil_Broadus*, *Phil_Wade*
+  - Administrator III
+  - Mapper
+  - Lead « Instructor »
+  - Lead « Racer'z »
+  - Member of « SFPD »
+</details>
+
 <!---
 NeekoGta/NeekoGta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
